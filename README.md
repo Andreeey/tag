@@ -27,7 +27,7 @@ To git@github.com:90poe/audit-reports-client-api.git
 ## Installation
 
 ```bash
-wget https://github.com/Andreeey/tag/blob/master/tag
+wget https://raw.githubusercontent.com/Andreeey/tag/master/tag
 chmod +x tag
 mv tag /usr/local/bin/
 ```
