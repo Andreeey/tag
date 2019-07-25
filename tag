@@ -27,9 +27,9 @@ then
 	exit
 fi
 
-#git checkout master &> /dev/null
+git checkout master &> /dev/null
 echo "Checked out master branch"
-#git pull origin &> /dev/null
+git pull origin &> /dev/null
 echo "Pulled origin"
 TAGS=`git tag`
 
